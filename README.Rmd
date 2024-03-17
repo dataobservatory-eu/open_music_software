@@ -69,21 +69,6 @@ In short, we ask music stakeholders to tell our experts their data "story": what
 Polifonia uses the *eXtreme Design* methodology complemented with some user-experience design concepts; this method utilises software design patterns and competency questions. Using software design patterns is commonplace in object-oriented languages, and work very well in OWL/RDF/Python (used in our knowledge coordination layer), but not always straightforward in functional programming. To retain the applicability of this methodology across the different layers of our software ecosystem, the new R packages developed in Open Music Europe are object-oriented, and they utilise the relatively simple but versatile S3 object-oriented class system of the R statistical ecosystem and language. 
 
 
-
-
-
-
-## Report a problem, issues, bug
-
-- [eurostat](https://github.com/rOpenGov/eurostat/issues/): R tools to access open data from Eurostat. Data search, download, manipulation and visualization.
-- [iotables](https://github.com/rOpenGov/iotables/issues/): Importing and Manipulating Symmetric Input-Output Tables (a tool for economic, social and environmental impact analysis).
-- [retroharmonize](https://github.com/rOpenGov/retroharmonize/issues/): Facilitate retrospective (ex-post) harmonization of survey data in a reproducible manner.
-- [dataset](https://github.com/dataobservatory-eu/dataset/issues): Create interoperable and well described data frames in R.
-- [statcodelists](https://github.com/antaldaniel/statcodelists/issues): Promote the reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R use.
-- [regions](https://github.com/rOpenGov/regions/issues): Working with Sub-national Statistics in R.
-- [tuRtle](https://github.com/dataobservatory-eu/tuRtle/issues): Parse or export R data with the Turtle syntax for the Resource Description Framework (RDF).
-
-
 ## Project background
 -   `2017.05.10.`: Retrieval and Analysis of Eurostat Open Data with the eurostat Package; subsequently maintained and improved through 2017-2023.
 -   `2018.01.30.`: The *iotables* R package first released on CRAN, adding functionality to *eurostat*.
@@ -95,6 +80,15 @@ Polifonia uses the *eXtreme Design* methodology complemented with some user-expe
 - `2023.04.30.`: The _SurveyHarmonies_ system for ex-ante survey harmonisation.
 - `2023.04.30.`: _Eviota_, a minimum viable product for integrated financial and sustainability reporting for music SMEs. 
 
+## Report a problem, issues, bug
+
+- [eurostat](https://github.com/rOpenGov/eurostat/issues/): R tools to access open data from Eurostat. Data search, download, manipulation and visualization.
+- [iotables](https://github.com/rOpenGov/iotables/issues/): Importing and Manipulating Symmetric Input-Output Tables (a tool for economic, social and environmental impact analysis).
+- [retroharmonize](https://github.com/rOpenGov/retroharmonize/issues/): Facilitate retrospective (ex-post) harmonization of survey data in a reproducible manner.
+- [dataset](https://github.com/dataobservatory-eu/dataset/issues): Create interoperable and well described data frames in R.
+- [statcodelists](https://github.com/antaldaniel/statcodelists/issues): Promote the reuse and exchange of statistical information and related metadata with making the internationally standardized SDMX code lists available for the R use.
+- [regions](https://github.com/rOpenGov/regions/issues): Working with Sub-national Statistics in R.
+- [tuRtle](https://github.com/dataobservatory-eu/tuRtle/issues): Parse or export R data with the Turtle syntax for the Resource Description Framework (RDF).
 
 ## Code of Conduct
 Please note that the all our open source components are released with a [Contributor Code of Conduct](https://contributor-covenant.org/version/2/1/CODE_OF_CONDUCT.html). By contributing to this project, you agree to abide by its terms.
